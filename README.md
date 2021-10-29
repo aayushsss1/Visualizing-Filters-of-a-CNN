@@ -1,1 +1,1 @@
-# Visualizing-Filters-of-a-CNN
+# Visualizing Filters of a Convolutional Neural Network
